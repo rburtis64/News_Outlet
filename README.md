@@ -1,2 +1,9 @@
-# News_Outlet
-Personal news outlet to find recent news articles as it pulls from several new APIs and posts it on the home web page.
+# CS403-Project
+Cloud Based News Aggregator <br>
+Team Name: Clean and Concise <br>
+Members: Ryan Burtis, Jesse Crenshaw, John Kiyak, Levert Mitchell <br>
+
+Cloud: AWS <br>
+DataBase: DynamoDB <br>
+Languages:Python, HTML, <br>
+Frameworks: React, Bootstrap <br>
